@@ -1,0 +1,4 @@
+def funcion_Suma(int num1, int num2)
+resultado= int(num1)+int(num2)
+return resultado
+

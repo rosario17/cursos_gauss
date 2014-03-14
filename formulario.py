@@ -1,0 +1,6 @@
+nombre=raw_input("Nombre ")
+apellido_paterno= raw_input("Apellido Paterno ")
+carrera=raw_input("Carrera ")
+edad= raw_input("Edad ")
+fecha_contacto= raw_input("Fecha de  Primer Contacto ")
+print "Nombre y Apellidos  "+ nombre+ "  " +apellido_paterno + " "+ "tu edad es "+str(edad)
